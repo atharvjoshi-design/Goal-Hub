@@ -1,0 +1,8 @@
+{
+  "name": "Global Goal Hub",
+  "description": "An intuitive Goal Setting & Tracking Portal for employees and managers to align and monitor organizational priorities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
